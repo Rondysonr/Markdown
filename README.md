@@ -62,6 +62,14 @@ para isso podemos três - da seguinte forma --- sem espassos entre eles, isso cr
 
   ![image](https://github.com/Rondysonr/Markdown/assets/126256862/e87304bc-1bbf-4d1c-b3fa-799533703cae)
 
+  e se quissermos adicionar um Gif?
+  
+  ![image](https://github.com/Rondysonr/Markdown/assets/126256862/ffdd3154-c1a0-4d4f-91b3-b076286a45c7)
+  
+  é o mesmo metodo, cuidado com o tamanho da imagem, não use imagens muito grandes, apesar de existir icones tambem da para criar icones com imagens menores
+  
+
+
 
 
 
