@@ -11,7 +11,12 @@ muito utilizada na documentação de codigos, com intuito de fácil leitura.
 4. Tachado
 5. Linhas
 6. Imagens
-7. Tabelas
+7. Numeração
+8. Recuo ou Ponto
+9. Tabelas
+10. Marcando Códigos
+11. Emojis
+12. Icons
 ---
 
 **Lição 1:** O uso de titulo em um texto é essencial, em HTML existe h1, h2 e h3, em markdown existe nivel 1 representado por **#** o nivel 2 **##** e o nivel 3 **###**.
@@ -107,6 +112,15 @@ para isso use ``` antes e depois do trecho desejado.
 ```
 printf("Hello Word");
 ```
+
+**Lição 11:** Emojis, não falamos de emojis, para eles é bem simpes basta usar o **:** e logo após escolher ou escrever o nome do emogi desejado.
+
+Exemplo: :+1:
+
+**Nota:** caso queira saber dos emojis segue um link com todos os emojis.
+https://github.com/ikatyang/emoji-cheat-sheet
+**Nota:** Caso você queira colocar emoji no nome do repositório, você tera que usar esse link asseguir: https://pt.piliapp.com/emoji/list/
+
 
 
 
