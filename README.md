@@ -66,8 +66,47 @@ para isso podemos três - da seguinte forma --- sem espassos entre eles, isso cr
   
 ![57615b8c0092a66c1d4058b1692955cc](https://github.com/Rondysonr/Markdown/assets/126256862/6a21eb6d-1cf4-435d-be5e-f256af432557)
   
-  é o mesmo metodo, cuidado com o tamanho da imagem, não use imagens muito grandes, apesar de existir icones tambem da para criar icones com imagens menores
-  
+  é o mesmo metodo, cuidado com o tamanho da imagem, não use imagens muito grandes, apesar de existir icones tambem da para criar icones com imagens menores.
+
+---
+
+**Lição 7:** Numeração, creio que você observou a sequencia de conteúdos a serem visto nessa documentação
+la utilizamos uma numeração sequencial, ela é automatica basta colocar um numero e um ponto dar espaço para escrever o seu texto, 1., confira o exemplo, se a duvida percistir clique em editar e venha até essa seção.
+
+1. teste 1
+1. teste 2
+1. teste 3  
+1. oi
+
+Existe a forma que ocorre a cada enter
+1. teste 1
+2.  tete 2
+3.  teste 3
+1. oi
+
+---
+
+**Lição 8:** Recuo ou ponto, para isso use o * simples.  
+
+* Fechado.  
+  * aberto, de um espaço antes do *.
+
+---
+
+**Lição 9:** Para criar tabelas use | entre as palavras das colunas e para linhas use ---|, confira a quantidade de colunas.
+
+Dia | Mês | Ano
+---|---|---
+05|03|2024
+
+---
+
+**Lição 10:** Que tal marcar trechos do seu codigo?
+para isso use ``` antes e depois do trecho desejado.
+
+```
+printf("Hello Word");
+```
 
 
 
