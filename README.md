@@ -119,7 +119,17 @@ Exemplo: :+1:
 
 **Nota:** caso queira saber dos emojis segue um link com todos os emojis.
 https://github.com/ikatyang/emoji-cheat-sheet
-**Nota:** Caso você queira colocar emoji no nome do repositório, você tera que usar esse link asseguir: https://pt.piliapp.com/emoji/list/
+**Nota:** Caso você queira colocar emoji no nome do repositório, você tera que usar esse link asseguir: https://pt.piliapp.com/emoji/list
+
+---  
+
+**Conteudo extra**
+https://dev.to/envoy_/150-badges-for-github-pnk
+
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="linkedin">
+
+https://github.com/anuraghazra/github-readme-stats
+https://github.com/abhisheknaiidu
 
 
 
